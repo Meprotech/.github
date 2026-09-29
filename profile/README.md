@@ -2,89 +2,78 @@
 
 # MEPROTECH
 
-### **Architecting the Future of Spatial Computing, Immersive VR Gaming & Next-Gen EdTech**
+**Technology Crafted for Your Vision.**
 
-[![Website](https://img.shields.io/badge/Website-meprotech.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://meprotech.in)
-[![VidyaXR](https://img.shields.io/badge/Platform-VidyaXR.in-6366f1?style=for-the-badge&logo=virtualbox&logoColor=white)](https://vidyaxr.in)
-[![Meta Quest](https://img.shields.io/badge/Meta_Horizon-Store_Published-0081fb?style=for-the-badge&logo=meta&logoColor=white)](https://developers.meta.com/horizon)
-[![Google Play](https://img.shields.io/badge/Google_Play-Live_Apps-34a853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
+A software development company building mobile applications, custom web platforms, interactive 3D games, and spatial computing experiences.
 
----
+[Website](https://meprotech.in) • [VidyaXR](https://vidyaxr.in) • [Email Us](mailto:contact@meprotech.in)
 
 </div>
 
-## 🚀 About Us
+---
 
-**MEPROTECH** is an advanced technology studio based in India, specializing in **Spatial Computing**, **Virtual & Augmented Reality (XR)**, and **Interactive 3D WebXR Experiences**. 
+### What We Do
 
-From high-fidelity virtual reality sports and action games officially approved on the **Meta Horizon Store**, to popular mobile games on **Google Play**, and our flagship immersive educational ecosystem **VidyaXR**, we build software that bridges the physical and virtual worlds.
+We partner with startups, businesses, and organizations to design, build, and deploy high quality digital products. Our focus is on dependable engineering, clean user experience, and long term performance.
+
+#### 1. Mobile App Development
+We build cross-platform and native mobile apps for iOS and Android. From idea and interface design to store launch and maintenance, we handle the complete lifecycle.
+
+#### 2. Custom Software and Web Platforms
+We build modern web applications, SaaS platforms, business dashboards, and internal management tools. Our platforms are designed for speed, security, and smooth day to day operations.
+
+#### 3. 2D and 3D Game Development
+We develop interactive 2D and 3D games for mobile, web, and VR headsets. Our titles include physics-driven sports simulations, action arcade games, and casual puzzle games published across major app stores.
+
+#### 4. Virtual Reality and Spatial Computing
+We design immersive VR and interactive 3D experiences for headsets like Meta Quest. Our applications include interactive simulations, hands-on training environments, and virtual walkthroughs.
+
+#### 5. AI Workflows and Business Automation
+We help teams automate repetitive tasks by connecting their existing tools, building custom workflow automations, and integrating practical AI tools that save time and reduce manual work.
+
+#### 6. 3D Modeling and Product Visualization
+We create detailed, production-ready 3D models and interactive web configurators for products, physical spaces, and digital experiences.
 
 ---
 
-## 🥽 Flagship Meta Horizon Store VR Releases
+### Featured Products and Games
 
-Our studio develops and maintains high-performance VR titles for **Meta Quest**:
+#### VidyaXR (Interactive STEM Learning)
+VidyaXR is an educational platform designed to make science learning hands-on and visual. Through interactive 3D models and virtual simulations, students can explore complex concepts directly inside their web browser or headset.
+* To learn more, explore modules, and view school offerings, visit [vidyaxr.in](https://vidyaxr.in).
 
-| Title | Platform / Status | Description |
-| :--- | :---: | :--- |
-| **Real Cricket VR** | Meta Quest (v1.0.9) | Immersive physics-based VR cricket experience with XR Hands tracking, batting dynamics, and authentic stadium environments. |
-| **Cup Strike VR** | Meta Quest (v1.2.0) | Fast-paced virtual reality shooter featuring responsive weapon mechanics, tactical aiming, and interactive target arenas. |
-| **Peak Fall VR** | Meta Quest (v1.2.2) | High-altitude courage, balance, and thrill simulation delivering intense acrophobia and balance challenges in VR. |
-| **Car DriveVR** | Meta Quest (v1.1.0) | Dynamic virtual reality driving simulator with detailed vehicle interiors, physics handling, and varied driving environments. |
-| **Cup Clash VR** | Meta Quest (v0.1.0) | Competitive, arcade-style physics tossing game designed for social and casual VR play. |
-
----
-
-## 📱 Google Play Mobile Games & Apps
-
-Accessible, fun, and engaging mobile titles built with Unity and published on Android:
-
-* **Vehicle Rush - 3D Racing Game** — Progressive highway traffic navigation and vehicle racing.
-* **Delivery Run: Fruit Game 3D** — Fast-action obstacle runner featuring animated skins and dynamic levels.
-* **Truth or Lie Prank** — Interactive party prank application featuring custom 3D animations and AI voice detection.
-* **Slice Box** — Precision arcade puzzle game with real-time 3D mesh slicing mechanics.
-* **Bowl the Ball 3D** — Realistic physics arcade bowling game.
-* **ARSpace** — Educational mobile Augmented Reality solar system and planetary explorer built with AR Foundation.
+#### Published Games
+Our studio develops and maintains games across major digital stores:
+* **Meta Horizon Store:** Real Cricket VR, Cup Strike VR, Peak Fall VR, Car DriveVR, and Cup Clash VR.
+* **Google Play Store:** Vehicle Rush 3D, Delivery Run 3D, Truth or Lie Prank, Slice Box, Bowl the Ball 3D, and ARSpace.
 
 ---
 
-## 🎓 VidyaXR — The Future of STEM Learning
+### Tech Stack and Tools
 
-[**VidyaXR**](https://vidyaxr.in) is MEPROTECH's flagship educational ecosystem bringing interactive 3D, WebXR, and Virtual Reality to classrooms and students worldwide.
-* **30+ NCERT-Aligned Science Modules:** High-fidelity interactive 3D simulations covering physics, chemistry, biology, and lab practicals (from microscopic cell inspection to planetary gravitation).
-* **Cross-Platform Accessibility:** Runs seamlessly across Chromebooks, tablets, standard desktop browsers (WebXR), and immersive Meta Quest VR headsets.
-* **School Management & LMS Portal:** Complete school administration and student progress tracking at [app.vidyaxr.in](https://app.vidyaxr.in).
+We build our products using modern, battle-tested technologies and frameworks:
 
----
+<div align="center">
 
-## 🌐 Enterprise Spatial Computing & Web Solutions
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,flutter,swift,kotlin,python" alt="Frontend and Mobile" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,blender,cs,threejs,postgres,supabase,docker,aws" alt="Engines, Database and Cloud" />
+</p>
 
-Beyond entertainment and gaming, we engineer bespoke spatial solutions for commercial enterprises:
-* **Web-Based AR Restaurant Menus:** Interactive scan-to-view 3D dish visualizers (House of Coffee, The Artisan's Table).
-* **Virtual Property & Architecture Tours:** Real-time 3D walkthroughs for real-estate and infrastructure projects.
-* **Custom Enterprise ERP & WebApps:** Scalable business management software (textile inventory systems, multi-site healthcare platforms, and e-commerce analytics).
-
----
-
-## 🛠️ Tech Stack & Ecosystem
-
-```
-Core XR Engines    : Unity 6 (URP), OpenXR, Meta XR Core / Hands SDK, AR Foundation, Vuforia
-Web & Spatial 3D   : WebXR, Three.js, Needle Engine, React, Next.js 14, Tailwind CSS
-Backend & Cloud    : Node.js, FastAPI, Python, Supabase, PostgreSQL, DigitalOcean, Cloudflare Workers
-Target Platforms   : Meta Quest 2 / 3 / Pro, Android, iOS, Modern Web Browsers
-```
+</div>
 
 ---
 
 <div align="center">
 
-### 🤝 Connect & Collaborate
+### Contact MEPROTECH
 
-Have a project in mind or want to bring Spatial Computing into your institution?
+Let's discuss your next software, game, or spatial project.
 
-🌐 **Website:** [meprotech.in](https://meprotech.in) &nbsp;•&nbsp; 🎓 **EdTech:** [vidyaxr.in](https://vidyaxr.in) &nbsp;•&nbsp; ✉️ **Email:** [contact@meprotech.in](mailto:contact@meprotech.in)
-
-*© 2026 MEPROTECH. All rights reserved.*
+* **Website:** [meprotech.in](https://meprotech.in)
+* **Email:** [contact@meprotech.in](mailto:contact@meprotech.in)
+* **Location:** Surat, Gujarat, India
 
 </div>
